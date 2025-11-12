@@ -46,7 +46,8 @@ Option	Description	Default:
 `--report-only`=>Show only security findings=>false
 
 Understanding the Output
-Tree Symbols
+Tree Symbols:
+
 `[ROOT]` - Starting point
 
 `[ADMIN]` - Admin panel or backend
@@ -63,7 +64,8 @@ Tree Symbols
 
 `[RES]` - Resource directory
 
-Risk Indicators
+Risk Indicators:
+
 `[!]` - Medium risk
 
 `[!!]` - High risk
@@ -104,7 +106,7 @@ Backup Files: `.bak`, `.backup`, `.old`
 Database Files: `.sql`, `.db`, `.mdb`
 
 ## Legal Notice
-⚠️ FOR EDUCATIONAL USE ONLY
+FOR EDUCATIONAL USE ONLY
 
 Only scan websites you own or have permission to test
 
